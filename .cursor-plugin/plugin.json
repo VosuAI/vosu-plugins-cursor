@@ -1,0 +1,23 @@
+{
+  "name": "vosu",
+  "displayName": "VOSU",
+  "description": "Generate images, videos, and 3D with VOSU from Cursor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Vosu AI",
+    "email": "support@vosu.ai"
+  },
+  "publisher": "vosu",
+  "homepage": "https://vosu.ai/mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "vosu",
+    "image-generation",
+    "video-generation",
+    "3d",
+    "mcp"
+  ],
+  "category": "developer-tools",
+  "tags": ["media", "creative", "ai-generation", "video", "image"]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vosu": {
+      "type": "http",
+      "url": "https://vosu.ai/mcp"
+    }
+  }
+}
